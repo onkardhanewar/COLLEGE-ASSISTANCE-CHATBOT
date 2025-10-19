@@ -1,0 +1,135 @@
+{
+    "college_name": "R.V. Parankar College of Engineering and Technology, Arvi",
+    "departments": [
+        "Computer Engineering",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Civil Engineering",
+        "Information Technology"
+    ],
+    "leadership_info": {
+        "president": "Hon. Mr. G. W. Parankar",
+        "principal": "Hon. Mrs. P.R. Parankar",
+        "director": "Hon. Dr. R. W. Parankar"
+    },
+    "department_details": {
+        "civil": {
+            "about": "The Civil Engineering Department offers a full-time undergraduate programme...",
+            "vision": "To create high-quality civil engineers...",
+            "mission": "To create professionals trained in civil engineering systems..."
+        },
+        "mechanical": {
+            "about": "The Mechanical Engineering department offers a full-time graduate program...",
+            "vision": "To be recognized globally for outstanding education...",
+            "mission": "To provide quality education and advance the knowledge base..."
+        },
+        "electrical": {
+            "about": "We have a graduate program in Electrical Engineering...",
+            "vision": "To produce Electrical Engineers with dynamic well-rounded personalities...",
+            "mission": "To offer good quality education and bridge the gap with industry..."
+        },
+        "it": {
+            "about": "Welcome to the Department of Information Technology...",
+            "vision": "To be a premier center for Information Technology education...",
+            "mission": "Impart comprehensive education in Technology fundamentals..."
+        },
+        "computer": {
+            "about": "Welcome to the Department of Computer Science Engineering...",
+            "vision": "To be recognized as a center of excellence...",
+            "mission": "Provide quality education in computer science..."
+        }
+    },
+    "faculty_data": {
+        "civil": [
+            {"name": "Prof.Dr.Ravindra W.Parankar", "position": "Head of Department"},
+            {"name": "Prof.Rahul M Kachole", "position": "Associate Professor"}
+        ],
+        "mechanical": [
+            {"name": "Prof. Nikhil Ekotkhane", "position": "H.O.D."},
+            {"name": "Dr. Krishnan", "position": "Associate Professor"}
+        ],
+        "electrical": [
+            {"name": "Prof.Dr.E.Sujata", "position": "H.O.D."},
+            {"name": "Prof.Mehendra A. Gurunasingani", "position": "Associate Professor"}
+        ],
+        "computer": [
+            {"name": "Prof.Priti D.Ghantewar", "position": "H.O.D."},
+            {"name": "Dr.K.Muralibabu", "position": "Associate Professor"}
+        ],
+        "it": [
+            {"name": "Prof.Priti D.Ghantewar", "position": "H.O.D."},
+            {"name": "Dr.K.Muralibabu", "position": "Associate Professor"}
+        ]
+    },
+    "responses": {
+        "greeting": [
+            "Hello! How can I help you with college information today?",
+            "Welcome to the college helpdesk. What would you like to know?"
+        ],
+        "fees": {
+            "overview": "The B.Tech fee for Indian students is ₹1,31,000 per year."
+        },
+        "admission_info": "Admissions are open from June 1st to August 15th. You need to have a valid JEE Main or State CET score.",
+        "contact_details": "You can contact the college at 0721-1234567 or visit www.rvparankar.in.",
+        "department_info": "We offer B.Tech in Computer, Mechanical, Electrical, Civil, and IT. Which one are you interested in?",
+        "default": [
+            "I'm not sure how to answer that. Can you ask me about admissions, fees, or departments?",
+            "Could you please rephrase? I can help with questions about our college."
+        ]
+    },
+    "hindi_responses": {
+        "greeting": [
+            "नमस्ते! मैं आपकी कॉलेज जानकारी में कैसे मदद कर सकता हूँ?",
+            "कॉलेज हेल्पडेस्क में आपका स्वागत है। आप क्या जानना चाहेंगे?"
+        ],
+        "fees": {
+            "overview": "भारतीय छात्रों के लिए बी.टेक की फीस ₹1,31,000 प्रति वर्ष है।"
+        },
+        "admission_info": "प्रवेश 1 जून से 15 अगस्त तक खुले हैं। आपके पास वैध जेईई मेन या राज्य सीईटी स्कोर होना चाहिए।",
+        "contact_details": "आप कॉलेज से 0721-1234567 पर संपर्क कर सकते हैं या www.rvparankar.in पर जा सकते हैं।",
+        "department_info": "हम कंप्यूटर, मैकेनिकल, इलेक्ट्रिकल, सिविल और आईटी में बी.टेक प्रदान करते हैं। आप किसमें रुचि रखते हैं?",
+        "default": [
+            "मुझे इसका उत्तर नहीं पता। क्या आप मुझसे प्रवेश, फीस, या विभागों के बारे में पूछ सकते हैं?",
+            "कृपया अपना प्रश्न दोबारा पूछें। मैं हमारे कॉलेज के बारे में सवालों में मदद कर सकता हूँ।"
+        ]
+    },
+    "english_responses": {
+        "greeting": "Hello! I'm here to help you with all information about our college. What would you like to know?",
+        "fees": "💰 <strong>B.Tech Fee Structure (2024-25):</strong><br>• Annual Fees: ₹1,31,000 for Indian students<br>• Includes: Tuition (₹1,20,000), Development (₹1,000), Exam (₹2,300), Other (₹8,000)<br>• Payment can be made in installments<br>• Scholarships available for merit and need-based students",
+        "admission": "📝 <strong>Admission Process 2025:</strong><br>• Application Period: June 1 - August 15, 2025<br>• Eligibility: 12th with PCM (45% general, 40% reserved)<br>• Entrance: JEE Main/MHT-CET/Direct admission<br>• Documents: 12th marksheet, JEE scorecard, caste certificate (if applicable)<br>• Selection: Merit-based counseling process",
+        "contact": "📞 <strong>Contact Information:</strong><br>• Phone: 0721-1234567<br>• Email: pcetarvi@rediffmail.com<br>• Website: www.rvparankar.in<br>• Address: R.V. Parankar College of Engineering and Technology, Arvi<br>• Office Hours: 9:00 AM - 5:00 PM (Mon-Sat)",
+        "faculty": "👨‍🏫 <strong>Faculty Overview:</strong><br><br>Our college has experienced faculty across all departments:<br><br>🏛️ <strong>Civil Department:</strong> 2 faculty members<br>🏛️ <strong>Mechanical Department:</strong> 2 faculty members<br>🏛️ <strong>Electrical Department:</strong> 2 faculty members<br>🏛️ <strong>Computer Department:</strong> 2 faculty members<br>🏛️ <strong>IT Department:</strong> 2 faculty members<br><br>All faculty members are highly qualified with industry and academic experience.",
+        "placement": "🎯 <strong>Placement Statistics:</strong><br>• Placement Rate: 85%+<br>• Highest Package: ₹12 LPA<br>• Average Package: ₹4.5 LPA<br>• Top Recruiters: TCS, Infosys, L&T, Bajaj Auto<br>• Training: Aptitude, Technical, Soft skills<br>• Career Guidance: Resume building, Interview preparation",
+        "default": "I'm here to help you with college information. Please ask about admissions, fees, departments, faculty, placements, or facilities."
+    },
+    "hindi_responses": {
+        "greeting": "नमस्ते! मैं आपको हमारे कॉलेज की सभी जानकारी में मदद करने के लिए यहाँ हूँ। आप क्या जानना चाहेंगे?",
+        "fees": "💰 <strong>बी.टेक फीस संरचना (2024-25):</strong><br>• वार्षिक फीस: भारतीय छात्रों के लिए ₹1,31,000<br>• शामिल: ट्यूशन (₹1,20,000), विकास (₹1,000), परीक्षा (₹2,300), अन्य (₹8,000)<br>• भुगतान किश्तों में किया जा सकता है<br>• मेधावी और जरूरतमंद छात्रों के लिए छात्रवृत्ति उपलब्ध",
+        "admission": "📝 <strong>प्रवेश प्रक्रिया 2025:</strong><br>• आवेदन अवधि: 1 जून - 15 अगस्त, 2025<br>• पात्रता: PCM के साथ 12वीं (सामान्य 45%, आरक्षित 40%)<br>• प्रवेश परीक्षा: JEE Main/MHT-CET/प्रत्यक्ष प्रवेश<br>• दस्तावेज: 12वीं मार्कशीट, JEE स्कोरकार्ड, जाति प्रमाणपत्र (यदि लागू हो)<br>• चयन: मेरिट आधारित काउंसलिंग प्रक्रिया",
+        "contact": "📞 <strong>संपर्क जानकारी:</strong><br>• फोन: 0721-1234567<br>• ईमेल: pcetarvi@rediffmail.com<br>• वेबसाइट: www.rvparankar.in<br>• पता: आर.वी. परानकर इंजीनियरिंग और प्रौद्योगिकी कॉलेज, अरवी<br>• कार्यालय समय: सुबह 9:00 - शाम 5:00 (सोमवार-शनिवार)",
+        "faculty": "👨‍🏫 <strong>संकाय अवलोकन:</strong><br><br>हमारे कॉलेज में सभी विभागों में अनुभवी संकाय हैं:<br><br>🏛️ <strong>सिविल विभाग:</strong> 2 संकाय सदस्य<br>🏛️ <strong>मैकेनिकल विभाग:</strong> 2 संकाय सदस्य<br>🏛️ <strong>इलेक्ट्रिकल विभाग:</strong> 2 संकाय सदस्य<br>🏛️ <strong>कंप्यूटर विभाग:</strong> 2 संकाय सदस्य<br>🏛️ <strong>IT विभाग:</strong> 2 संकाय सदस्य<br><br>सभी संकाय सदस्य उद्योग और शैक्षणिक अनुभव के साथ उच्च योग्य हैं।",
+        "placement": "🎯 <strong>प्लेसमेंट आंकड़े:</strong><br>• प्लेसमेंट दर: 85%+<br>• सर्वोच्च पैकेज: ₹12 LPA<br>• औसत पैकेज: ₹4.5 LPA<br>• मुख्य भर्तीकर्ता: TCS, Infosys, L&T, Bajaj Auto<br>• प्रशिक्षण: योग्यता, तकनीकी, सॉफ्ट स्किल्स<br>• करियर मार्गदर्शन: रिज्यूमे बिल्डिंग, साक्षात्कार तैयारी",
+        "default": "मैं आपको कॉलेज की जानकारी में मदद करने के लिए यहाँ हूँ। कृपया प्रवेश, फीस, विभागों, संकाय, प्लेसमेंट, या सुविधाओं के बारे में पूछें।"
+    },
+    "hinglish_responses": {
+        "greeting": "Hello! College ke baare mein kya janna hai? Main aapki help karne ke liye yahan hun!",
+        "fees": "💰 <strong>B.Tech Fee Structure (2024-25):</strong><br>• Annual Fees: ₹1,31,000 Indian students ke liye<br>• Include karta hai: Tuition (₹1,20,000), Development (₹1,000), Exam (₹2,300), Other (₹8,000)<br>• Installments mein pay kar sakte hain<br>• Merit aur need-based students ke liye scholarships available hain",
+        "admission": "📝 <strong>Admission Process 2025:</strong><br>• Application Period: June 1 - August 15, 2025<br>• Eligibility: PCM ke saath 12th (45% general, 40% reserved)<br>• Entrance: JEE Main/MHT-CET/Direct admission<br>• Documents: 12th marksheet, JEE scorecard, caste certificate (agar applicable ho)<br>• Selection: Merit-based counseling process",
+        "contact": "📞 <strong>Contact Information:</strong><br>• Phone: 0721-1234567<br>• Email: pcetarvi@rediffmail.com<br>• Website: www.rvparankar.in<br>• Address: R.V. Parankar College of Engineering and Technology, Arvi<br>• Office Hours: 9:00 AM - 5:00 PM (Mon-Sat)",
+        "faculty": "👨‍🏫 <strong>Faculty Overview:</strong><br><br>Humare college mein sabhi departments mein experienced faculty hain:<br><br>🏛️ <strong>Civil Department:</strong> 2 faculty members<br>🏛️ <strong>Mechanical Department:</strong> 2 faculty members<br>🏛️ <strong>Electrical Department:</strong> 2 faculty members<br>🏛️ <strong>Computer Department:</strong> 2 faculty members<br>🏛️ <strong>IT Department:</strong> 2 faculty members<br><br>Sabhi faculty members highly qualified hain with industry aur academic experience.",
+        "placement": "🎯 <strong>Placement Statistics:</strong><br>• Placement Rate: 85%+<br>• Highest Package: ₹12 LPA<br>• Average Package: ₹4.5 LPA<br>• Top Recruiters: TCS, Infosys, L&T, Bajaj Auto<br>• Training: Aptitude, Technical, Soft skills<br>• Career Guidance: Resume building, Interview preparation",
+        "default": "Main aapki college information mein help karne ke liye yahan hun. Admissions, fees, departments, faculty, placements, ya facilities ke baare mein puch sakte hain."
+    }
+}
+        "fees": {
+            "overview": "Indian students ke liye B.Tech ki fees ₹1,31,000 per year hai."
+        },
+        "admission_info": "Admission June 1 se August 15 tak open hai. Aapke paas valid JEE Main ya State CET score hona chahiye.",
+        "contact_details": "Aap college ko 0721-1234567 par call kar sakte hain ya www.rvparankar.in visit kar sakte hain.",
+        "department_info": "Hum Computer, Mechanical, Electrical, Civil, aur IT me B.Tech offer karte hain. Aapko kisme interest hai?",
+        "default": [
+            "Mujhe iska jawab nahi pata. Aap admission, fees, ya departments ke baare me puch sakte hain.",
+            "Thoda alag tarike se puchenge? Main college ke sawalon ka jawab de sakta hoon."
+        ]
+    }
+}
